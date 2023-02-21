@@ -19,7 +19,7 @@ Port = 3306
 # mysql组件配置
 [MySQL]
 Username = "gin_file_download_user"
-Password = "Alss1121919"
+Password = ""
 DBName = "db_file_user"
 DBDriver = "mysql"
 Charset = "utf8"
