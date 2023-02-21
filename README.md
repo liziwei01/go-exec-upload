@@ -10,3 +10,10 @@
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 This is a course project written by graduate student Ziwei Li from JHU
+
+## Run
+
+```
+make
+./bin/go-exec-upload
+```
