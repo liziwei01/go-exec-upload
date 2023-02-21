@@ -1,0 +1,10 @@
+# oss_idiary_image.toml: oss 图片存储配置文件
+
+# Service的名字
+Name = "oss_idiary_image"
+
+# oss组件配置
+[OSS]
+Endpoint = "http://oss-cn-shenzhen.aliyuncs.com"
+AccessKeyID = ""
+AccessKeySecret = ""

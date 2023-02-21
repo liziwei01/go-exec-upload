@@ -1,0 +1,15 @@
+# email_idiary_user.toml: 邮件发送验证码配置文件
+
+# Service的名字, 必选
+Name = "email_idiary_user"
+
+# 资源定位: 手动配置 - 使用IP、端口
+[Resource.Manual]
+Host = "smtp.163.com"
+Port = 465
+
+# email组件配置
+[Email]
+Address = "no_reply_idiary@163.com"
+Password = ""
+

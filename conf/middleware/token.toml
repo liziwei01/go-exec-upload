@@ -1,0 +1,10 @@
+# token.toml 接口token校验配置
+
+# 是否启用频控，默认为false，必选
+Enable = false
+
+# Token
+Token = "hnF7w%P%+Jh#P2-~DgJ}32.-acX4M}14"
+
+# 不走token校验的特殊接口
+NoTokenPath = ["/addUser"]
