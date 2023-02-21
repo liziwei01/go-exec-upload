@@ -14,3 +14,4 @@
 [2023/02/21 02:49:51 EST] [INFO] (github.com/liziwei01/go-exec-upload/library/logit.LogitMiddleware.func1:51) [GIN] |  200 |    1.871126ms |             ::1 | POST     "/api/execute/exec"
 [2023/02/21 02:53:17 EST] [INFO] (github.com/liziwei01/go-exec-upload/library/logit.LogitMiddleware.func1:51) [GIN] |  200 |   10.797637ms |             ::1 | POST     "/api/execute/exec"
 [2023/02/21 02:53:23 EST] [INFO] (github.com/liziwei01/go-exec-upload/library/logit.LogitMiddleware.func1:51) [GIN] |  200 |    7.770199ms |             ::1 | POST     "/api/execute/exec"
+[2023/02/21 02:55:49 EST] [INFO] (github.com/liziwei01/go-exec-upload/library/logit.LogitMiddleware.func1:51) [GIN] |  200 |    7.197184ms |             ::1 | POST     "/api/execute/exec"
